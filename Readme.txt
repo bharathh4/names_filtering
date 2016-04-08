@@ -1,6 +1,8 @@
 Motivation:
-Not all names need lexicons. This is a process which determines what names are not popular and lumenvox will eventually get
-it wrong. This process helps us avoid adding a lexicon for popular names like john or smith.  
+Not all names need lexicons. This is a process which determines what names are not popular and lumenvox will use a bad rule. This process helps us avoid adding a lexicon for popular names like john or smith.  
+
+Download the DB file from https://drive.google.com/open?id=0B4Wi34IOXmGhOWNBTXp2YjVFMWs and place it in freqest/db/
+
 #################################################################
 Run python flaskapp.py to start the server
 Consume it as either
