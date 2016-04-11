@@ -1,5 +1,5 @@
 Motivation:
-Not all names need lexicons. This is a process which determines what names are not popular and lumenvox will use a bad rule. This process helps us avoid adding a lexicon for popular names like john or smith.  
+Not all names need lexicons. This is a process which determines what names are not popular and lumenvox will use a bad rule. This process helps us avoid adding a lexicon for popular names like john or smith. The interface needs will need some API aesthetics cleanup. Feel free to get offended for blatant disregard for mixing up gets and posts.
 
 Download the DB file from https://drive.google.com/open?id=0B4Wi34IOXmGhOWNBTXp2YjVFMWs and place it in freqest/db/
 
